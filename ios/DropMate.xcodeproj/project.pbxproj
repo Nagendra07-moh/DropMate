@@ -10,11 +10,16 @@
 		00E356F31AD99517003FC87E /* DropMateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* DropMateTests.m */; };
 		06F7AEB26ED8C7301C5579FE /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		0C80B921A6F3F58F76C31292 /* libPods-DropMate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-DropMate.a */; };
+		10EF762B8623400185BE1AD5 /* Okra-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0AFE7B6F3DA4F47A06E45BD /* Okra-Regular.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-DropMate-DropMateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-DropMate-DropMateTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		847E706FC2664BE4AD6DD165 /* Okra-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24CF5063595B4CD291E20A90 /* Okra-ExtraBold.ttf */; };
+		9DF8D5DD494F454DA527710F /* Okra-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 47047E257B5C4695BF3D3122 /* Okra-Bold.ttf */; };
+		AD8F9D5D926D41679B7452C8 /* Okra-MediumLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD738E657EA54C3ABD6B312C /* Okra-MediumLight.ttf */; };
+		E2C3C619862D458594C04B26 /* Okra-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B03FA281E0042A28D494A4E /* Okra-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,13 +44,18 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = DropMate/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = DropMate/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-DropMate-DropMateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DropMate-DropMateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24CF5063595B4CD291E20A90 /* Okra-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Okra-ExtraBold.ttf"; path = "../src/assets/fonts/Okra-ExtraBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-DropMate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropMate.debug.xcconfig"; path = "Target Support Files/Pods-DropMate/Pods-DropMate.debug.xcconfig"; sourceTree = "<group>"; };
+		47047E257B5C4695BF3D3122 /* Okra-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Okra-Bold.ttf"; path = "../src/assets/fonts/Okra-Bold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-DropMate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropMate.release.xcconfig"; path = "Target Support Files/Pods-DropMate/Pods-DropMate.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-DropMate-DropMateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropMate-DropMateTests.debug.xcconfig"; path = "Target Support Files/Pods-DropMate-DropMateTests/Pods-DropMate-DropMateTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-DropMate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DropMate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B03FA281E0042A28D494A4E /* Okra-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Okra-Medium.ttf"; path = "../src/assets/fonts/Okra-Medium.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = DropMate/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-DropMate-DropMateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropMate-DropMateTests.release.xcconfig"; path = "Target Support Files/Pods-DropMate-DropMateTests/Pods-DropMate-DropMateTests.release.xcconfig"; sourceTree = "<group>"; };
+		A0AFE7B6F3DA4F47A06E45BD /* Okra-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Okra-Regular.ttf"; path = "../src/assets/fonts/Okra-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FD738E657EA54C3ABD6B312C /* Okra-MediumLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Okra-MediumLight.ttf"; path = "../src/assets/fonts/Okra-MediumLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +135,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A75F3D76EDBD482A84B7EF6B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -138,6 +149,19 @@
 				00E356EE1AD99517003FC87E /* DropMateTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A75F3D76EDBD482A84B7EF6B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				47047E257B5C4695BF3D3122 /* Okra-Bold.ttf */,
+				24CF5063595B4CD291E20A90 /* Okra-ExtraBold.ttf */,
+				6B03FA281E0042A28D494A4E /* Okra-Medium.ttf */,
+				FD738E657EA54C3ABD6B312C /* Okra-MediumLight.ttf */,
+				A0AFE7B6F3DA4F47A06E45BD /* Okra-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -247,6 +271,11 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				06F7AEB26ED8C7301C5579FE /* PrivacyInfo.xcprivacy in Resources */,
+				9DF8D5DD494F454DA527710F /* Okra-Bold.ttf in Resources */,
+				847E706FC2664BE4AD6DD165 /* Okra-ExtraBold.ttf in Resources */,
+				E2C3C619862D458594C04B26 /* Okra-Medium.ttf in Resources */,
+				AD8F9D5D926D41679B7452C8 /* Okra-MediumLight.ttf in Resources */,
+				10EF762B8623400185BE1AD5 /* Okra-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
