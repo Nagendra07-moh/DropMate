@@ -15,8 +15,8 @@ const SplashScreen:FC = () => {
         return () => clearTimeout(timeoutId)
     },[])
   return (
-    <View style={[commonStyles.container,{backgroundColor:'#435158'}]}>
-        <Image style={{width:screenWidth * 0.94, height:screenHeight *0.44,borderRadius:12}} source={require('../assets/images/Dropmate_Icon_1024x1024.png')}/>
+    <View style={[commonStyles.container,{backgroundColor:'#435158',flex:1}]}>
+        <Image style={{width:screenWidth * 0.98, height:screenHeight *0.44}} source={require('../assets/images/DropmateLogo.png')}/>
     </View>
   )
 }

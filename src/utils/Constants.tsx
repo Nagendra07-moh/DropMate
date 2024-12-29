@@ -29,12 +29,22 @@ export const multiColor = ['#0B3D91', '#1E4DFF', '#104E8B', '#4682B4', '#6A5ACD'
 export const svgPath = "M0,100L120,120C240,140,480,180,720,180C960,180,1200,140,1320,120L1440,100L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"
 
 
+// export enum Colors {
+//   primary = '#007AFF',
+//   background = '#fff',
+//   text = '#222',
+//   theme = '#CF551F',
+//   secondary = '#E5EBF5',
+//   tertiary = '#3C75BE',
+//   secondary_light = '#F6F7F9',
+// }
+
 export enum Colors {
-  primary = '#007AFF',
+  primary = '#08546C',
   background = '#fff',
   text = '#222',
   theme = '#CF551F',
-  secondary = '#E5EBF5',
-  tertiary = '#3C75BE',
+  secondary = '#022534',
+  tertiary = '#A0BACC',
   secondary_light = '#F6F7F9',
 }
